@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.tamako" name="Tamako Repository" version="1.0.0" provider-name="ManjarosV">
+  <extension point="xbmc.addon.repository" name="Tamako Repository">
+    <info compressed="false">https://raw.githubusercontent.com/ManjarosV/tamako/main/repository.tamako/addons.xml</info>
+    <checksum>https://raw.githubusercontent.com/ManjarosV/tamako/main/repository.tamako/addons.xml.md5</checksum>
+    <datadir zip="true">https://raw.githubusercontent.com/ManjarosV/tamako/main/packages/</datadir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="pt_BR">Repositório pessoal Tamako</summary>
+    <description lang="pt_BR">Repositório pessoal de addons Kodi do usuário ManjarosV.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
