@@ -5,7 +5,7 @@ Addon pessoal de legendas em português brasileiro para os episódios 3–12 de 
 ## Instalação no Kodi/webOS
 
 1. Abra **Add-ons → Instalar a partir de arquivo ZIP**.
-2. Instale `repository.tamako-1.0.0.zip`.
+2. Instale `repository.tamako-1.0.1.zip`.
 3. Entre em **Instalar do repositório → Tamako Repository → Serviços de legendas**.
 4. Instale **Tamako Market PT-BR**.
 5. Durante a reprodução, abra **Áudio/Legenda → Baixar legenda** e escolha um episódio.
