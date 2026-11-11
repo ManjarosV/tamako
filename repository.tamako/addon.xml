@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.tamako" name="Tamako Repository" version="1.0.1" provider-name="ManjarosV">
+<addon id="repository.tamako" name="Tamako Repository" version="1.0.2" provider-name="ManjarosV">
   <requires>
     <import addon="xbmc.addon" version="18.0.0" />
   </requires>
